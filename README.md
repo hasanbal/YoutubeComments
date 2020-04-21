@@ -2,7 +2,12 @@
 
 YoutubeComments is a Chrome Extension that allows you to read comments while watching a video.
 
-# Screenshots
+## Tech Stack
+
+- Javascript
+- HTML/CSS
+
+## Screenshots
 
 ![](img1.png)
 
